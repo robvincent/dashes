@@ -21,6 +21,18 @@ CONFIGURATION
 - email to receive alerts in /production.ini
 - number of columns in /
 
+RUNNING
+=======
+
+Dashes is a pylons application, so you have a choice for running it.  
+
+- use the built-in web server:
+	paster serve production.ini
+	
+- use a python module for your favorite web server, such as mod_python with Apache
+
+- use a wsgi server to communicate with your web server, such as uwsgi˝
+
 IDEAS FOR IMPROVEMENTS
 ======================
 
