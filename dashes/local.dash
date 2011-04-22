@@ -1,0 +1,13 @@
+{
+  "title": "server1.example.com - /usr/local",
+  "updated":  "2011-04-05 14:52:17",
+  "headers": ["Directory", "Size (MB)"],
+  "note": "Total space for /usr/local is 100MB",
+  "data": [
+    [ "/usr/local/lib", 21 ],
+    [ "/usr/local/bin", 20 ],
+    [ "/usr/local/share", 7 ],
+    [ "/usr/local/libexec", 7 ],
+    [ "/usr/local/include", 6 ]
+  ]
+}

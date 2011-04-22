@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: dashes
+Version: 0.0.1dev
+Summary: The very simplet dashboard system possible
+Home-page: rjvincent.wordpress.com
+Author: Rob Vincent
+Author-email: rob.vincent@rocketmail.com
+License: GPLv2
+Description: Basic dashboard system for quick and flexible reporting
+Platform: Pylons 1.0

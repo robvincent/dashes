@@ -1,0 +1,7 @@
+
+0.0.1 - April 19, 2011
+======================================================
+- very first semi-usable dashboard
+- simple reports written in JSON (dashes)
+- some same scripts for generating dashes
+- uses pylons framework

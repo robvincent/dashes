@@ -3,6 +3,8 @@ Dashes - the very simplest dashboard system possible.
 by Rob Vincent (rob.vincent@rocketmail.com)
 April 2011
 
+For longer description, read my blog post at http://rjvincent.wordpress.com/2011/04/22/no-budget-project-1-dashboard/
+
 Reads report files, called dashes, and displays each in a div-tag on a single web page.  Dashes are written
 in JSON format with only a few standard fields: title, updated, headers, note, and data (which is an
 array of arrays).
